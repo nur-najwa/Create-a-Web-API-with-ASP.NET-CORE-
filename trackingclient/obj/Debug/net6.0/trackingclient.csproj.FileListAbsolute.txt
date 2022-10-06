@@ -1,0 +1,15 @@
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\bin\Debug\net6.0\trackingclient.exe
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\bin\Debug\net6.0\trackingclient.deps.json
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\bin\Debug\net6.0\trackingclient.runtimeconfig.json
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\bin\Debug\net6.0\trackingclient.dll
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\bin\Debug\net6.0\trackingclient.pdb
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.csproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.AssemblyInfoInputs.cache
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.AssemblyInfo.cs
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.csproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.dll
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\refint\trackingclient.dll
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.pdb
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\trackingclient.genruntimeconfig.cache
+C:\Users\najwa\Desktop\Done Api\trackingapi\trackingclient\obj\Debug\net6.0\ref\trackingclient.dll
